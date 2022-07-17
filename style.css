@@ -1,0 +1,17 @@
+body{
+    background :linear-gradient(#eb4034 0% , #eb3492 100%);
+}
+#score{
+    font-size: 25px;
+    margin-left: 1160px;
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 65px;
+}
+#tobedrawn{
+    color: aqua;
+    font-weight: bold;
+    font-size: 25px;
+}
